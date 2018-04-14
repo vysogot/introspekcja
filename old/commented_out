@@ -1,0 +1,120 @@
+<div class="6u 12u$(small)">
+                                <span class="image fit"><a href="foto/spotkanie-dogadaj-sie-z-emocjami.jpg"><img src="foto/spotkanie-dogadaj-sie-z-emocjami.jpg" alt="Spotkanie w Warszawie, Południk Zero, już w 3 października o 17:15!" /></a></span>
+                            </div>
+
+
+        <!--<section class="wrapper lessPadding">
+            <div class="inner">
+            <header class="align-center">
+            <h2>Doświadczenie</h2>
+            <p>Wykształcenie i praca</p>
+            </header>
+            <div class="row exp">
+            <div class="3u 12u$(small)">
+            <span class="image fit"><a href="http://yes.pl"><img src="foto/logo-yes.jpg" alt="YES" /></a></span>
+            </div>
+            <div class="3u 12u$(small)">
+            <span class="image fit"><a href="http://justlanded.com"><img src="foto/logo-justlanded.jpg" alt="Just Landed" /></a></span>
+            </div>
+            <div class="3u 12u$(small)">
+            <span class="image fit"><a href="http://xing.com"><img src="foto/logo-xing.jpg" alt="XING" /></a></span>
+            </div>
+            <div class="3u$ 12u$(small)">
+            <span class="image fit"><a href="http://uefa.com"><img src="foto/logo-uefa.jpg" alt="UEFA" /></a></span>
+            </div>
+            <div class="3u 12u$(small)">
+            <span class="image fit"><a href="http://put.poznan.pl"><img src="foto/logo-put.jpg" alt="Politechnika Poznańska" /></a></span>
+            </div>
+            <div class="3u 12u$(small)">
+            <span class="image fit"><a href="http://upm.es"><img src="foto/logo-upm.jpg" alt="Universidad Politecnica Madrid" /></a></span>
+            </div>
+            <div class="3u 12u$(small)">
+            <span class="image fit"><a href="http://vrajainstitute.org"><img src="foto/logo-jiva.jpg" alt="JIVA" /></a></span>
+            </div>
+            <div class="3u$ 12u$(small)">
+            <span class="image fit"><a href="http://pracownianovo.pl"><img src="foto/logo-novo.jpg" alt="Pracownia NOVO" /></a></span>
+            </div>
+            </div>
+            </div>
+            </div>
+            </section>-->
+
+            <!--<section class="wrapper">
+                <div class="inner">
+                <div class="row">
+                <div class="6u 12u$(small)">
+                <h3>Programowanie</h3>
+                <dl>
+                <dt>2010-2017</dt>
+                <dd><a href="http://www.uefa.com">UEFA</a>, zdalnie, projekty</dd>
+                <dt>2011-2012</dt>
+                <dd><a href="http://www.xing.com">XING</a>, Barcelona, etat</dd>
+                <dt>2009</dt>
+                <dd><a href="http://www.justlanded.com">Just Landed</a>, Madryt, półetat</dd>
+                <dt>2005-2009</dt>
+                <dd><a href="http://www.yes.pl">YES Biżuteria</a>, Poznań, partner</dd>
+                </dl>
+                </div>
+                <div class="6u$ 12u$(small)">
+                <h3>Wykształcenie</h3>
+                <dl>
+                <dt>Od 2016</dt>
+                <dd>Bhakti Tirtha, <a href="http://www.vrajainstitute.org">Jiva Institute</a></dd>
+                <dt>2005-2010</dt>
+                <dd><a href="http://www.put.poznan.pl">Politechnika Poznańska</a><br />Erasmus, Madryt 2009/2010</dd>
+                <dt>1993-2005</dt>
+                <dd>VII LO, GIM 68, SP 22, Poznań
+                <dt>Dodatkowe</dt>
+                <dd>Konsultant Ajurwedy – <a href="http://jiva.com">Jiva Ayurveda</a><br /> Mistrz Reiki – <a href="http://www.rackma.com/">Rackma</a><br /> Trener, Coach – <a href="http://pracownianovo.pl/">Pracownia NOVO</a></dd>
+                </dl>
+                </div>
+                </div>
+                </div>-->
+
+            </section>
+
+<!--
+        
+        <section id="już-wkrótce" class="wrapper noPadding">
+            <div class="inner">
+
+                <header class="align-center">
+                    <h2>Już wkrótce weekend przy kominku!</h2>
+                </header>
+                <div class="content" id="workshops">
+                    <div class="row">
+
+
+                        <div class="6u 12u$(small)">
+                            <h3>Dla kogo przeznaczone są warsztaty?</h3>
+                            <ul class="checklist">
+                                <li>Dla osób, które potrzebują krótkiego weekendu, żeby w umiejętny sposób poukładać sobie ważne dla nich sprawy dotyczące emocji</li>
+                                <li>Dla każdego, kto chciałby odrobinę odpocząć: posiedzieć przy kominku, dobrze zjeść, obudzić się rano i wyjść do lasu na spacer</li>
+                                <li>Dla tych, których interesuje co też można zrobić z pisaniem, żeby aż samemu się zdziwić, że nosiliśmy w sobie takie treści</li>
+                                <li>Dla zainteresowanych metodami auto-coachingowymi, psychologią, filozofią, muzyką, oraz stylem życia w zgodzie z naturą</li>
+                                <li>Dla partnerów, którzy chcieliby się dowiedzieć, jak pogłębić swoją relację za pomocą introspekcji</li>
+                            </ul>
+                            <h3>Zapewniamy...</h3>
+                            <ul class="checklist">
+                                <li>Trzy wegańskie, bezglutenowe posiłki dziennie na bazie produktów od lokalnych rolników</li>
+                                <li>Dwanaście godzin zajęć korzystających z metod pisania introspektywnego i coachingu grupowego</li>
+                                <li>Piękne zakwaterowanie w dwustodwudziesto letniej chacie z dwoma kominkami i dużym piecem kaflowym</li>
+                                <li>Materiały teoretyczne dotyczące umiejętności nabytych podczas warsztatów</li>
+                                <li>Stół do ping-ponga, grupę nie większą niż sześć osób, oddzielną salę warsztatową</li>
+                            </ul>
+                        </div>
+                        <div class="6u 12u$(small)">
+                            <span class="image fit"><a href="foto/warsztaty-listopad-duzy.jpg"><img src="foto/warsztaty-listopad.jpg" alt="Zapraszam na warsztaty w Chacie Olenderskiej, już w 3. listopada!" /></a></span>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="row">
+                    <div class="12u 12u$(small)">
+                        <h3>Gdzie i w jakiej cenie?</h3>
+                        <p>Warsztaty prowadzone są w <a href="http://facebook.com/chataOlenderska">Chacie Olenderskiej</a>, miejscu o długiej tradycji pracy u podstaw i kontaktu z naturą. <a href="http://chata-olenderska.pl">Dokładny dojazd oraz więcej zdjęć znajdziesz tutaj</a>. Cena warsztatów to <strong>590 złotych</strong>. W tej cenie zawarte są: zakwaterowanie w pokojach dwuosobowym i trzyosobowym z kominkami, pyszne posiłki, oraz warsztaty! Mamy również do dyspozycji osobny pokój z podwójnym łóżkiem, który można zarezerwować za dopłatą.<a href="warsztaty.html">Zobacz kalendarz warsztatów</a>.</p>
+                    </div>
+                </div>
+
+                <p class="align-center biggerMargin"><a class="button scroll" href="#kontakt">Zarezerwuj swoje miejsca już dziś!</a></p>
+        </section>-->
