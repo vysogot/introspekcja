@@ -3139,6 +3139,15 @@
 	.image img { display: inline; }
         .biggerMargin { margin: 3.5em 0; }
 	.attention { background-color: #8789C0; height: 43px;}
+
+	#navPanel a.coming-soon {
+		background-color: #F2ED6F;
+		color: black!important;
+		font-weight: bold;
+		padding-left: 15px;
+		margin-left: -15px;
+	}
+
 	nav a.coming-soon {
             background-color: #F2ED6F;
 	    color: black!important;
