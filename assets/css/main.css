@@ -3185,7 +3185,7 @@
 	#pisanie-introspektywne header h2 { letter-spacing: 0.05em;}
 
 	@media screen and (max-width: 480px) {
-		#pisanie-introspektywne header h2 { padding: 0 60px; }
+		#pisanie-introspektywne header h2 { padding: 0 40px; }
 		section.noPadding { padding-top: 40px; }
   }
 
