@@ -16,12 +16,13 @@ $(document).ready(function() {
 
 	$(".scroll").click(function() {
 		theOffset = $($(this).attr('href')).offset();
+		console.log(theOffset);
 		$('body,html').animate({
 			scrollTop: theOffset.top
-		}); 
+		});
 		$("nav a").each(function() {
 			$(this).removeClass('active');
 		});
 		$(this).addClass('active');
-	});	
+	});
 });

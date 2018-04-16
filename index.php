@@ -49,9 +49,9 @@
                     <p>Cześć, jestem <strong>Kuba</strong> i znam bardzo fajny sposób na radzenie sobie z emocjami. To, czym się tutaj dzielę, to <strong>pisanie introspektywne</strong>. Znajdziesz tutaj wszystko co potrzebne, aby zacząć z nim swoją samodzielną przygodę: kurs online, materiały teoretyczne i techniki pisania z przykładami.</p>
                     <p class="biggerMargin"><a class="button scroll" href="#kurs-online">Wskakuj na głęboką wodę...</a></p>
                     <p style="margin-top: 50px">... albo przeczytaj <strong>rozmowę z Dorotą Lipnicką z <a target="_blank" href="http://e-inspiracja.pl/jakub-godawa-pisanie-introspektywne-przynosi-natychmiastowa-ulge-prosi-o-kontynuacje/">e-inspiracja.pl</a></strong>!</p>
-                    <p><a target="_blank" href="http://e-inspiracja.pl/jakub-godawa-pisanie-introspektywne-przynosi-natychmiastowa-ulge-prosi-o-kontynuacje/"><img data-src="./foto/einspiracja.jpg" /></a></p>
+                    <p><a target="_blank" href="http://e-inspiracja.pl/jakub-godawa-pisanie-introspektywne-przynosi-natychmiastowa-ulge-prosi-o-kontynuacje/"><img src="./foto/einspiracja.jpg" /></a></p>
                     <p style="margin-top: 50px">... i posłuchaj <strong>rozmowy z Piotrem Peszko z <a target="_blank" href="http://blog.2edu.pl/2017/11/podcast-2edu-15-jak-dogadac-sie-z-emocjami-rozmowa-o-pisaniu-introspektywnym-z-jakubem-godawa.html">2edu.pl</a></strong>!</p>
-                    <p><a target="_blank" href="http://blog.2edu.pl/2017/11/podcast-2edu-15-jak-dogadac-sie-z-emocjami-rozmowa-o-pisaniu-introspektywnym-z-jakubem-godawa.html"><img data-src="./foto/2edu.png" /></a></p>
+                    <p><a target="_blank" href="http://blog.2edu.pl/2017/11/podcast-2edu-15-jak-dogadac-sie-z-emocjami-rozmowa-o-pisaniu-introspektywnym-z-jakubem-godawa.html"><img src="./foto/2edu.png" /></a></p>
                 </div>
             </div>
         </section>
@@ -65,7 +65,7 @@
                 <div class="flex flex-3">
                   <article>
                       <div class="image fit">
-                          <a target="_blank" href="http://virgobooks.pl/joga-i-ajurweda/221-hitopadesia-.html"><img data-src="foto/hitopadesia2.jpg" alt="Hitopadesia" /></a>
+                          <a target="_blank" href="http://virgobooks.pl/joga-i-ajurweda/221-hitopadesia-.html"><img src="foto/hitopadesia2.jpg" alt="Hitopadesia" /></a>
                       </div>
                       <header>
                           <h3><a target="_blank" href="http://virgobooks.pl/joga-i-ajurweda/221-hitopadesia-.html">"Hitopadeśa"</a></h3>
@@ -75,7 +75,7 @@
 
                     <article>
                         <div class="image fit">
-                            <a target="_blank" href="https://zaczytani.pl/ksiazka/pin_i_zielony,druk"><img data-src="foto/pin-i-zielony2.jpg" alt="Pin i zielony" /></a>
+                            <a target="_blank" href="https://zaczytani.pl/ksiazka/pin_i_zielony,druk"><img src="foto/pin-i-zielony2.jpg" alt="Pin i zielony" /></a>
                         </div>
                         <header>
                             <h3><a target="_blank" href="https://zaczytani.pl/ksiazka/pin_i_zielony,druk">"Pin i zielony"</a></h3>
@@ -85,7 +85,7 @@
 
                     <article>
                         <div class="image fit">
-                            <a target="_blank" href="https://nieznany.pl/pl/p/Z-Tadz-do-Wradz.-Duchowa-odyseja-kobiet/11633"><img data-src="foto/z-tadz-do-wradz.jpg" alt="Z Tadż do Wradż" /></a>
+                            <a target="_blank" href="https://nieznany.pl/pl/p/Z-Tadz-do-Wradz.-Duchowa-odyseja-kobiet/11633"><img src="foto/z-tadz-do-wradz.jpg" alt="Z Tadż do Wradż" /></a>
                         </div>
                         <header>
                             <h3><a target="_blank" href="https://nieznany.pl/pl/p/Z-Tadz-do-Wradz.-Duchowa-odyseja-kobiet/11633">"Z Tadż do Wradż"</a></h3>
@@ -108,7 +108,7 @@
                     <div class="row align-center">
 
                         <div class="12u 12u$(small)">
-                            <span class="image fit"><img data-src="foto/asp.jpg" alt="Warsztaty na Akademii Sztuk Pięknych w Warszawie" /></span>
+                            <span class="image fit"><img src="foto/asp.jpg" alt="Warsztaty na Akademii Sztuk Pięknych w Warszawie" /></span>
                             <p>Warsztaty na Akademii Sztuk Pięknych w Warszawie</p>
                             <br />
                         </div>
@@ -116,15 +116,15 @@
                     <div class="row align-center">
                         <div class="6u 12u$(small)">
 
-                            <span class="image fit"><img data-src="foto/pisanie-introspektywne-nad-jeziorem.jpg" alt="Warsztaty w lesie" /></span>
+                            <span class="image fit"><img src="foto/pisanie-introspektywne-nad-jeziorem.jpg" alt="Warsztaty w lesie" /></span>
                             <p>Grupa nad jeziorem, introspekcja przed pływaniem</p>
-                            <span class="image fit"><img data-src="foto/pisanie-introspektywne-kredki.jpg" alt="Warsztaty w lesie" /></span>
+                            <span class="image fit"><img src="foto/pisanie-introspektywne-kredki.jpg" alt="Warsztaty w lesie" /></span>
                             <p>Rysowanie przed pisaniem</p>
                         </div>
                         <div class="6u 12u$(small)">
-                            <span class="image fit"><img data-src="foto/pisanie-introspektywne-w-domu.jpg" alt="Warsztaty w lesie" /></span>
+                            <span class="image fit"><img src="foto/pisanie-introspektywne-w-domu.jpg" alt="Warsztaty w lesie" /></span>
                             <p>Wizualizacje z pisaniem w mieszkaniu w Warszawie</p>
-                            <span class="image fit"><img data-src="foto/pisanie-introspektywne-powerpoint.jpg" alt="Warsztaty w lesie" /></span>
+                            <span class="image fit"><img src="foto/pisanie-introspektywne-powerpoint.jpg" alt="Warsztaty w lesie" /></span>
                             <p>Prezentacja o tym, czym jest pisanie introspektywne</p>
                         </div>
 
@@ -160,7 +160,7 @@
                     </div>
                     <div class="3u 12u$(small)">
                       <div class="image fit align-center">
-                          <img data-src="/foto/workbook.jpg" alt="Workbook" />
+                          <img src="/foto/workbook.jpg" alt="Workbook" />
                       </div>
                     </div>
                   </div>
@@ -326,7 +326,7 @@
                 <div class="row">
                   <div class="3u 12u(small)">
                     <div class="image fit align-center">
-                        <img data-src="/foto/kuba-small.jpg" alt="Jakub Godawa" class="border" />
+                        <img src="/foto/kuba-small.jpg" alt="Jakub Godawa" class="border" />
                     </div>
                   </div>
                   <div class="9u 12u$(small)">
@@ -366,12 +366,6 @@
         <script src="assets/js/main.js" async></script>
         <script src="assets/js/contact.js" async></script>
         <script src="assets/js/custom.js" async></script>
-
-        <script>
-        window.lazyLoadOptions = {};
-        </script>
-
-        <script src="assets/js/lazyload.min.js" async></script>
         <script src='https://www.google.com/recaptcha/api.js' async></script>
 
     </body>
