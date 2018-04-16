@@ -5,17 +5,18 @@
         <title>introspekcja.pl – widzisz siebie, widzisz innych</title>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta name="description" content="Znajdziesz tutaj wszystko co niezbędne by rozpocząć samodzielną podróż z introspekcją: kurs online, materiały teoretyczne i techniki pisania z przykładami.">
+        <meta name="description" content="Znajdziesz tutaj wszystko co potrzebne by rozpocząć samodzielną podróż z introspekcją: kurs online, materiały teoretyczne i techniki pisania z przykładami.">
         <meta name="keywords" content="pisanie introspektywne, introspekcja, pisanie, emocje, rozwój, coaching, książki, warsztaty, kurs online, konsultacje, mentoring, hinduizm, kryszna, tłumaczenia, psychologia wedyjska, joga">
 
         <meta property="og:url"                content="http://introspekcja.pl" />
         <meta property="og:type"               content="website" />
         <meta property="og:title"              content="Dogadaj się z emocjami!" />
-        <meta property="og:description"        content="Znajdziesz tutaj wszystko co niezbędne by rozpocząć samodzielną podróż z introspekcją: kurs online, materiały teoretyczne i techniki pisania z przykładami." />
+        <meta property="og:description"        content="Znajdziesz tutaj wszystko co potrzebne by rozpocząć samodzielną podróż z introspekcją: kurs online, materiały teoretyczne i techniki pisania z przykładami." />
         <meta property="og:image"              content="http://introspekcja.pl/foto/introspekcja-asp-1200.jpg" />
+        <meta property="fb:app_id"             content='' />
 
-        <link rel="stylesheet" href="assets/css/main.css?v=<?= fileatime('assets/css/main.css') ?>" />
-        <script type="text/javascript" src="assets/js/lazyload.min.js"></script>
+        <link rel="stylesheet" href="assets/css/main.css?v=<?= fileatime('assets/css/main.css') ?>">
+
     </head>
 
     <body class="subpage">
@@ -23,12 +24,13 @@
         <!-- Header -->
         <header id="header">
             <div class="inner">
-                <a href="index.html" class="logo">introspekcja.pl</a>
+                <span class="logo"><a href="index.html">introspekcja.pl</a> <a href="#english" class="scroll">/en/</a></span>
                 <nav id="nav">
                     <a href="#pisanie-introspektywne" class="active scroll">Pisanie introspektywne</a>
                     <a href="#książki" class="scroll">Książki</a>
                     <a href="#warsztaty" class="scroll">Warsztaty</a>
-                    <a href="#kurs-online" class="scroll coming-soon">Kurs online</a>
+                    <a href="#english" class="scroll coming-soon">Expand your English</a>
+                    <a href="#kurs-online" class="scroll coming-soon">Kurs online!</a>
                     <a href="#kontakt" class="scroll">Kontakt</a>
                     <a href="#o-autorze" class="scroll">O autorze</a>
                 </nav>
@@ -143,10 +145,33 @@
             </div>
         </section>
 
+        <section id="english" class="wrapper noPadding">
+            <div class="inner">
+              <header class="align-center">
+                  <h2>Expand your English</h2>
+                  <p>Online course + Playbook for you!</p>
+              </header>
+              <div class="content">
+                  <div class="row">
+                    <div class="9u 12u(small)">
+                        <p><em>"<strong>Let's make ourselves a favour and take a hike down to the alien land.</strong> To the place where we often get dumbstruck, speechless, amazed, floored, awkward, and suddenly disappointed by someone else's spontaneous behaviour. To the place where we hear from others what they have never said, where we simply see people as they are not. Who knows, maybe we will find ourselves there too".</em></p>
+                        <p>Download the <a class="external" href="https://docs.google.com/document/d/1H-8Px_l_blx4lS45fXE3tYjmD9GorWj7iTG3MdKcAKk/edit?usp=sharing">Playbook from Google Docs</a> and check out the <a class="external" href="https://process.teachable.com/p/introspective-writing">Introspective Writing Online Course!</a></p>
+                        <p>Odkrywaj siebie w języku angielskim przy pomocy <strong>zeszytu introspektywnego</strong> <a class="external" href="https://docs.google.com/document/d/1H-8Px_l_blx4lS45fXE3tYjmD9GorWj7iTG3MdKcAKk/edit?usp=sharing">Introspective Writing Playbook</a> i obserwuj, jak nauka angielskiego poprzez pisanie o swoim wnętrzu zmienia Twoje podejście do języka oraz Twoje umiejętności lingwistyczne. Zeszyt zawiera dużą dawkę inspiracji i wymaga angielskiego na poziomie komunikatywnym.</p>
+                    </div>
+                    <div class="3u 12u$(small)">
+                      <div class="image fit align-center">
+                          <img data-src="/foto/workbook.jpg" alt="Workbook" />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+            </div>
+        </section>
+
         <section id="kurs-online" class="wrapper noPadding">
             <div class="inner">
                 <header class="align-center">
-                    <h2>Kurs online</h2>
+                    <h2>Kurs online!</h2>
                 </header>
                 <div class="content">
                     <div class="row">
@@ -307,7 +332,7 @@
                   <div class="9u 12u$(small)">
                       <p><strong>Jakub Godawa</strong> organizuje i prowadzi warsztaty wyjazdowe, sesje indywidualne i grupowe</strong>. Tłumaczy książki i zajęcia
                       z zakresu psychologii i kultury wedyjskiej. Rozwija i promuje opracowaną przez siebie metodę <strong>pisania introspektywnego</strong>. Pochodzi z Poznania, półtora roku mieszkał w Indiach, trzy lata w Hiszpani a rok w Berlinie. Obecnie mieszka razem z narzeczoną w Otwocku i bardzo mu się tam podoba.</p>
-                      <p>Z zawodu jest programistą i uwielbia pisać kod od podstaw. Je tylko roślinki, chyba że jest na wsi, gdzie krowy pasą się do końca życia i nikt nie zabiera im cielaków. Od takich krów uwielbia pić mleko. Na jego <a target="_blank" href="https://www.instagram.com/jakubgodawa/">Instagramie</a> znajdziecie to, co zwykle ląduje na jego talerzu, a na kanale <a href="https://www.youtube.com/c/jakub_godawa">YouTube</a> ciekawe wywiady, które przeprowadził.</p>
+                      <p>Z zawodu jest programistą i je roślinki, chyba że jest na wsi, gdzie krowy pasą się do końca życia i nikt nie zabiera im cielaków. Od takich krów uwielbia pić mleko. Na jego <a target="_blank" href="https://www.instagram.com/jakubgodawa/">Instagramie</a> znajdziecie to, co zwykle ląduje na jego talerzu, a na kanale <a href="https://www.youtube.com/c/jakub_godawa">YouTube</a> ciekawe wywiady, które przeprowadził.</p>
                       <p>Kuba lubi dzielić się introspekcją i zachęcać innych do samopoznania. <strong>Chcesz poczytać jego teksty?</strong> Zajrzyj na <a target="_blank" href="https://docs.google.com/document/d/1GobP9kkcqkClEF7U32yZP12008eyCTH3evawIamd47k/edit?usp=sharing">Google Docs i czytaj</a> w dogodnym dla Ciebie formacie (PDF, ePub, docx i inne).
                         Chcesz dostawać powiadomienie gdy pojawią się nowe? Dołącz do grupy "Dogadaj się z emocjami" na <a target="_blank" href="https://www.facebook.com/groups/introspekcja">Facebooku</a> lub po prostu <a href="#kontakt" class="scroll">daj znać</a>.</p>
                   </div>
@@ -342,12 +367,12 @@
         <script src="assets/js/contact.js" async></script>
         <script src="assets/js/custom.js" async></script>
 
-        <script src='https://www.google.com/recaptcha/api.js' async></script>
-
-
-        <script type="text/javascript">
-        var myLazyLoad = new LazyLoad();
+        <script>
+        window.lazyLoadOptions = {};
         </script>
+
+        <script src="assets/js/lazyload.min.js" async></script>
+        <script src='https://www.google.com/recaptcha/api.js' async></script>
 
     </body>
 </html>
