@@ -29,7 +29,7 @@
                     <a href="#pisanie-introspektywne" class="active scroll">Pisanie introspektywne</a>
                     <a href="#książki" class="scroll">Książki</a>
                     <a href="#warsztaty" class="scroll">Warsztaty</a>
-                    <a href="#english" class="scroll">Expand your English</a>
+                    <a href="#english" class="scroll">Introspect in English</a>
                     <a href="#kurs-online" class="scroll coming-soon">Kurs online!</a>
                     <a href="#kontakt" class="scroll">Kontakt</a>
                     <a href="#o-autorze" class="scroll">O autorze</a>
@@ -150,7 +150,7 @@
         <section id="english" class="wrapper noPadding">
             <div class="inner">
               <header class="align-center">
-                  <h2>Expand your English</h2>
+                  <h2>Introspect in English</h2>
                   <p>Online Course and Playbook for you!</p>
               </header>
               <div class="content">
@@ -158,15 +158,19 @@
                     <div class="9u 12u(small)">
                         <p><em>"<strong>Let's make ourselves a favour and take a hike down to the alien land.</strong> To the place where we often get dumbstruck, speechless, amazed, floored, awkward, and suddenly disappointed by someone else's spontaneous behaviour. To the place where we hear from others what they have never said, where we simply see people as they are not. Who knows, maybe we will find ourselves there too".</em></p>
                         <p>Download the <a class="external" href="https://docs.google.com/document/d/1H-8Px_l_blx4lS45fXE3tYjmD9GorWj7iTG3MdKcAKk/edit?usp=sharing">Playbook from Google Docs</a> and check out the <a class="external" href="https://process.teachable.com/p/introspective-writing">Introspective Writing Online Course on Teachable!</a></p>
-                        <p>Discover yourself with the help of <a class="external" href="https://docs.google.com/document/d/1H-8Px_l_blx4lS45fXE3tYjmD9GorWj7iTG3MdKcAKk/edit?usp=sharing">Introspective Writing Playbook</a> and observe how practicing English through writing about your internal life changes your perception of the language and improves your linguistic skills. The Playbook contains a big dose of inspiration and invites on for an amazing journey.</p>
+                        <p>Discover yourself with the help of <a class="external" href="https://docs.google.com/document/d/1H-8Px_l_blx4lS45fXE3tYjmD9GorWj7iTG3MdKcAKk/edit?usp=sharing">Introspective Writing Playbook</a> and observe how practicing English through writing about your internal life changes your perception of the language and improves your linguistic skills. <strong>The Playbook contains a big dose of inspiration and invites you for an amazing journey.</strong></p>
                     </div>
                     <div class="3u 12u$(small)">
                       <div class="image fit align-center">
-                          <img src="/foto/workbook.jpg" alt="Workbook" />
-                          <p class="only-mobile"><a class="external" href="https://docs.google.com/document/d/1H-8Px_l_blx4lS45fXE3tYjmD9GorWj7iTG3MdKcAKk/edit?usp=sharing">Get it from Google Docs!</a></p>
+                          <a href="https://docs.google.com/document/d/1H-8Px_l_blx4lS45fXE3tYjmD9GorWj7iTG3MdKcAKk/edit?usp=sharing"><img src="/foto/playbook.jpg" alt="Introspective Writing Playbook" /></a>
                       </div>
                     </div>
                   </div>
+                </div>
+                <header class="align-center">
+                    <h2>That's what they say...</h2>
+                </header>
+                <div class="content">
                   <div class="row">
                     <div class="flex flex-3 align-center">
                       <article>
@@ -174,7 +178,8 @@
                               <img class="round" src="foto/shannon.jpg" alt="Hitopadesia" />
                           </div>
                           <header>
-                              <h3>Shannon May Powell<br/>Writer and photographer</h3>
+                              <h3>Shannon May Powell</h3>
+                              <p>Writer and photographer</p>
                           </header>
                           <p>"I have hosted and participated in retreats with Kuba on yoga, massage, and writing, and I can recommend him as a great space holder. He is reliable, caring and is very committed to his path as both a teacher and a student."</p>
                       </article>
@@ -184,7 +189,8 @@
                                 <img class="round" src="foto/robert.jpg" alt="Robert Lindsey Jr." />
                             </div>
                             <header>
-                                <h3>Robert Lindsey Jr.<br/>Co-Founder of Trilogy Lacrosse</h3>
+                                <h3>Robert Lindsey Jr.</h3>
+                                <p>Co-Founder of Trilogy Lacrosse</p>
                             </header>
                             <p>"Many of my students have participated in this innovative writing course and the response has been overwhelmingly positive. Kuba touched their hearts and gave them practical skills for their search within."</p>
                         </article>
@@ -194,9 +200,10 @@
                                 <img class="round" src="foto/jessica.jpg" alt="Z Tadż do Wradż" />
                             </div>
                             <header>
-                                <h3>Jessica Richmond<br/>Psychotherapist</h3>
+                                <h3>Jessica Richmond</h3>
+                                <p>Psychotherapist</p>
                             </header>
-                            <p>"Kuba who asks good, deep questions of himself and others. He is humble enough to look at the painful parts of the mind and try to grow from that. He did it with humor and compassion for himself."</p>
+                            <p>"Kuba asks good, deep questions of himself and others. He is humble enough to look at the painful parts of the mind and he tries to grow from that. Moreover, he does it with humor and compassion for himself."</p>
                         </article>
 
                     </div>
@@ -369,9 +376,9 @@
                   <div class="9u 12u$(small)">
                       <p><strong>Jakub Godawa</strong> organizuje i prowadzi warsztaty wyjazdowe, sesje indywidualne i grupowe</strong>. Tłumaczy książki i zajęcia
                       z zakresu psychologii i kultury wedyjskiej. Rozwija i promuje opracowaną przez siebie metodę <strong>pisania introspektywnego</strong>. Pochodzi z Poznania, półtora roku mieszkał w Indiach, trzy lata w Hiszpani a rok w Berlinie. Obecnie mieszka razem z narzeczoną w Otwocku i bardzo mu się tam podoba.</p>
-                      <p>Z zawodu jest programistą i je roślinki, chyba że jest na wsi, gdzie krowy pasą się do końca życia i nikt nie zabiera im cielaków. Od takich krów uwielbia pić mleko. Na jego <a target="_blank" href="https://www.instagram.com/jakubgodawa/">Instagramie</a> znajdziecie to, co zwykle ląduje na jego talerzu, a na kanale <a href="https://www.youtube.com/c/jakub_godawa">YouTube</a> ciekawe wywiady, które przeprowadził.</p>
+                      <p>Z zawodu jest programistą i odżywia się roślinami – chyba że jest na wsi, gdzie krowy pasą się do końca życia i nikt nie zabiera im cielaków. Od takich krów uwielbia pić mleko. Na jego <a class="external" target="_blank" href="https://www.instagram.com/jakubgodawa/">Instagramie</a> znajdziecie to, co zwykle ląduje na jego talerzu, a na kanale <a class="external" target="_blank" href="https://www.youtube.com/c/jakub_godawa">YouTube</a> obejrzycie ciekawe wywiady, które przeprowadził.</p>
                       <p>Kuba lubi dzielić się introspekcją i zachęcać innych do samopoznania. <strong>Chcesz poczytać jego teksty?</strong> Zajrzyj na <a target="_blank" href="https://docs.google.com/document/d/1GobP9kkcqkClEF7U32yZP12008eyCTH3evawIamd47k/edit?usp=sharing">Google Docs i czytaj</a> w dogodnym dla Ciebie formacie (PDF, ePub, docx i inne).
-                        Chcesz dostawać powiadomienie gdy pojawią się nowe? Dołącz do grupy "Dogadaj się z emocjami" na <a target="_blank" href="https://www.facebook.com/groups/introspekcja">Facebooku</a> lub po prostu <a href="#kontakt" class="scroll">daj znać</a>.</p>
+                        Chcesz dostawać powiadomienie gdy pojawią się nowe? Dołącz do grupy "Dogadaj się z emocjami" na <a class="external" target="_blank" href="https://www.facebook.com/groups/introspekcja">Facebooku</a> lub po prostu <a href="#kontakt" class="scroll">daj znać</a>.</p>
                   </div>
                 </div>
               </div>
