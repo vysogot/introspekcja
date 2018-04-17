@@ -24,12 +24,12 @@
         <!-- Header -->
         <header id="header">
             <div class="inner">
-                <span class="logo"><a href="index.html">introspekcja.pl</a> <a href="#english" class="scroll">/en/</a></span>
+                <span class="logo"><a href="/">introspekcja.pl</a> <a href="#english" class="scroll">/en/</a></span>
                 <nav id="nav">
                     <a href="#pisanie-introspektywne" class="active scroll">Pisanie introspektywne</a>
                     <a href="#książki" class="scroll">Książki</a>
                     <a href="#warsztaty" class="scroll">Warsztaty</a>
-                    <a href="#english" class="scroll coming-soon">Expand your English</a>
+                    <a href="#english" class="scroll">Expand your English</a>
                     <a href="#kurs-online" class="scroll coming-soon">Kurs online!</a>
                     <a href="#kontakt" class="scroll">Kontakt</a>
                     <a href="#o-autorze" class="scroll">O autorze</a>
@@ -95,6 +95,8 @@
 
                 </div>
 
+                <p class="align-center biggerMargin"><a class="button scroll" href="/case-moniki-i-tomka.html">Brak czasu na książki? Przeczytaj Monice i Tomku!</a></p>
+
             </div>
         </section>
 
@@ -149,19 +151,54 @@
             <div class="inner">
               <header class="align-center">
                   <h2>Expand your English</h2>
-                  <p>Online course + Playbook for you!</p>
+                  <p>Online Course and Playbook for you!</p>
               </header>
               <div class="content">
                   <div class="row">
                     <div class="9u 12u(small)">
                         <p><em>"<strong>Let's make ourselves a favour and take a hike down to the alien land.</strong> To the place where we often get dumbstruck, speechless, amazed, floored, awkward, and suddenly disappointed by someone else's spontaneous behaviour. To the place where we hear from others what they have never said, where we simply see people as they are not. Who knows, maybe we will find ourselves there too".</em></p>
-                        <p>Download the <a class="external" href="https://docs.google.com/document/d/1H-8Px_l_blx4lS45fXE3tYjmD9GorWj7iTG3MdKcAKk/edit?usp=sharing">Playbook from Google Docs</a> and check out the <a class="external" href="https://process.teachable.com/p/introspective-writing">Introspective Writing Online Course!</a></p>
-                        <p>Odkrywaj siebie w języku angielskim przy pomocy <strong>zeszytu introspektywnego</strong> <a class="external" href="https://docs.google.com/document/d/1H-8Px_l_blx4lS45fXE3tYjmD9GorWj7iTG3MdKcAKk/edit?usp=sharing">Introspective Writing Playbook</a> i obserwuj, jak nauka angielskiego poprzez pisanie o swoim wnętrzu zmienia Twoje podejście do języka oraz Twoje umiejętności lingwistyczne. Zeszyt zawiera dużą dawkę inspiracji i wymaga angielskiego na poziomie komunikatywnym.</p>
+                        <p>Download the <a class="external" href="https://docs.google.com/document/d/1H-8Px_l_blx4lS45fXE3tYjmD9GorWj7iTG3MdKcAKk/edit?usp=sharing">Playbook from Google Docs</a> and check out the <a class="external" href="https://process.teachable.com/p/introspective-writing">Introspective Writing Online Course on Teachable!</a></p>
+                        <p>Discover yourself with the help of <a class="external" href="https://docs.google.com/document/d/1H-8Px_l_blx4lS45fXE3tYjmD9GorWj7iTG3MdKcAKk/edit?usp=sharing">Introspective Writing Playbook</a> and observe how practicing English through writing about your internal life changes your perception of the language and improves your linguistic skills. The Playbook contains a big dose of inspiration and invites on for an amazing journey.</p>
                     </div>
                     <div class="3u 12u$(small)">
                       <div class="image fit align-center">
                           <img src="/foto/workbook.jpg" alt="Workbook" />
+                          <p class="only-mobile"><a class="external" href="https://docs.google.com/document/d/1H-8Px_l_blx4lS45fXE3tYjmD9GorWj7iTG3MdKcAKk/edit?usp=sharing">Get it from Google Docs!</a></p>
                       </div>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="flex flex-3 align-center">
+                      <article>
+                          <div class="image fit">
+                              <img class="round" src="foto/shannon.jpg" alt="Hitopadesia" />
+                          </div>
+                          <header>
+                              <h3>Shannon May Powell<br/>Writer and photographer</h3>
+                          </header>
+                          <p>"I have hosted and participated in retreats with Kuba on yoga, massage, and writing, and I can recommend him as a great space holder. He is reliable, caring and is very committed to his path as both a teacher and a student."</p>
+                      </article>
+
+                        <article>
+                            <div class="image fit">
+                                <img class="round" src="foto/robert.jpg" alt="Robert Lindsey Jr." />
+                            </div>
+                            <header>
+                                <h3>Robert Lindsey Jr.<br/>Co-Founder of Trilogy Lacrosse</h3>
+                            </header>
+                            <p>"Many of my students have participated in this innovative writing course and the response has been overwhelmingly positive. Kuba touched their hearts and gave them practical skills for their search within."</p>
+                        </article>
+
+                        <article>
+                            <div class="image fit">
+                                <img class="round" src="foto/jessica.jpg" alt="Z Tadż do Wradż" />
+                            </div>
+                            <header>
+                                <h3>Jessica Richmond<br/>Psychotherapist</h3>
+                            </header>
+                            <p>"Kuba who asks good, deep questions of himself and others. He is humble enough to look at the painful parts of the mind and try to grow from that. He did it with humor and compassion for himself."</p>
+                        </article>
+
                     </div>
                   </div>
                 </div>
@@ -176,7 +213,7 @@
                 <div class="content">
                     <div class="row">
                         <div class="12u 12u$(small)">
-                            <p>Kurs online <strong>"Dogadaj się z emocjami"</strong> zabierze Cię w podróż z <strong>pisaniem introspektywnym</strong>. Pomoże Ci uzyskać solidny wgląd w to, jak samodzielnie i w sposób usystematyzowany poukładać sobie relacje z własnymi emocjami. Jeśli w trakcie jego oglądania pojawią się pytania, <a href="#kontakt">pisz śmiało</a> i pamiętaj – introspekcja to niespieszny proces a nagrania są w podobnym, spokojnym tonie.</p>
+                            <p>Kurs online <strong>"Dogadaj się z emocjami"</strong> zabierze Cię w podróż z <strong>pisaniem introspektywnym</strong>. Pomoże Ci uzyskać solidny wgląd w to, jak samodzielnie i w sposób usystematyzowany poukładać sobie relacje z własnymi emocjami. Jeśli w trakcie jego oglądania pojawią się pytania, <a href="#kontakt">pisz śmiało</a> i pamiętaj – introspekcja to niespieszny proces. Nagrania są w podobnym, spokojnym tonie.</p>
                         </div>
                     </div>
                     <div class="row">

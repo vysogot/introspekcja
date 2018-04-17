@@ -2244,7 +2244,7 @@
 	}
 
 		.image img {
-			border-radius: 0;
+			/* border-radius: 0; */
 			display: block;
 		}
 
@@ -3165,14 +3165,19 @@
 		height: 200px;
 	}
 
+
+
 	@media screen and (max-width: 980px) {
 		p.intro { padding-bottom: 1em; }
 		.flex.flex-3 article { padding-bottom: 0; }
 		.course { max-width: 90%; }
 	}
 
+.only-mobile { display: none; }
+
 	@media screen and (max-width: 736px) {
 		#course h3 { text-align:center; }
+		.only-mobile { display: block; }
 	}
 
 	@media screen and (min-width: 1192px) {
@@ -3205,3 +3210,5 @@
 #kurs-online table a:hover strong { border-bottom: 1px solid gray; }
 #kurs-online table a:hover { border-bottom: 1px solid #5385c1; }
 #kurs-online table a.icon:hover { border:none; color: #F2ED6F; }
+
+.round { border-radius: 50%; }
