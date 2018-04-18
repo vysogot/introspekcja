@@ -1,8 +1,8 @@
 @charset "UTF-8";
 
-@import url(font-awesome.min.css);
+/*@import url(font-awesome.min.css);*/
 
-@import "https://fonts.googleapis.com/css?family=Raleway:100,300,600,Thin&subset=latin,latin-ext";
+/* @import "https://fonts.googleapis.com/css?family=Raleway:100,300,600,Thin&subset=latin,latin-ext"; */
 
 /*
 	Theory by TEMPLATED
@@ -602,7 +602,18 @@ body {
 
 body,input,textarea {
   color: #666;
-  font-family: "Raleway", Arial, Helvetica, sans-serif;
+	font-family: Raleway,
+               -apple-system,
+               BlinkMacSystemFont,
+               "Segoe UI",
+               Roboto,
+               Oxygen,
+               Ubuntu,
+               Cantarell,
+               "Fira Sans",
+               "Droid Sans",
+               "Helvetica Neue",
+               sans-serif;
   font-size: 13pt;
   font-weight: 300;
   line-height: 1.65;
@@ -1013,22 +1024,22 @@ input[type="radio"] + label:before {
 }
 
 ::-webkit-input-placeholder {
-  color: #666 !important;
+  color: #ccc !important;
   opacity: 1.0;
 }
 
 :-moz-placeholder {
-  color: #666 !important;
+  color: #ccc !important;
   opacity: 1.0;
 }
 
 ::-moz-placeholder {
-  color: #666 !important;
+  color: #ccc !important;
   opacity: 1.0;
 }
 
 :-ms-input-placeholder {
-  color: #666 !important;
+  color: #ccc !important;
   opacity: 1.0;
 }
 
@@ -1218,7 +1229,7 @@ input[type="submit"],input[type="reset"],input[type="button"],button,.button {
   color: #ffffff !important;
   cursor: pointer;
   display: inline-block;
-  font-weight: 600;
+  font-weight: 200;
   /*height: 2.85em; */
   line-height: 1.5em;
   padding: 1.0em 1.5em!important;
@@ -1702,13 +1713,16 @@ nav a.coming-soon {
 
 @media screen and (max-width: 480px) {
   #pisanie-introspektywne header h2 {
-    padding: 0 40px;
+    padding: 0 50px;
   }
 
   section.noPadding {
     padding-top: 40px;
   }
 }
+
+h2 { letter-spacing: 0.08em; }
+h3 { font-weight: 100; }
 
 #kontakt form {
   padding-top: 0;
@@ -1718,12 +1732,13 @@ nav a.coming-soon {
   text-decoration: none;
   background-position: center right;
   background-repeat: no-repeat;
-  background-image: linear-gradient(transparent,transparent), url("data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%2212%22 height=%2212%22%3E %3Cpath fill=%22%23fff%22 stroke=%22%235385c1%22 d=%22M1.5 4.518h5.982V10.5H1.5z%22/%3E %3Cpath fill=%22%2336c%22 d=%22M5.765 1H11v5.39L9.427 7.937l-1.31-1.31L5.393 9.35l-2.69-2.688 2.81-2.808L4.2 2.544z%22/%3E %3Cpath fill=%22%23fff%22 d=%22M9.995 2.004l.022 4.885L8.2 5.07 5.32 7.95 4.09 6.723l2.882-2.88-1.85-1.852z%22/%3E %3C/svg%3E");
-  padding-right: 20px;
+  /* background-image: linear-gradient(transparent,transparent), url("data:image/+xml,%3C xmlns=%22http://www.w3.org/2000/svg%22 width=%2212%22 height=%2212%22%3E %3Cpath fill=%22%23fff%22 stroke=%22%235385c1%22 d=%22M1.5 4.518h5.982V10.5H1.5z%22/%3E %3Cpath fill=%22%2336c%22 d=%22M5.765 1H11v5.39L9.427 7.937l-1.31-1.31L5.393 9.35l-2.69-2.688 2.81-2.808L4.2 2.544z%22/%3E %3Cpath fill=%22%23fff%22 d=%22M9.995 2.004l.022 4.885L8.2 5.07 5.32 7.95 4.09 6.723l2.882-2.88-1.85-1.852z%22/%3E %3C/svg%3E"); */
+	/* content: '->';
+  padding-right: 20px; */
 }
 
 a.external {
-  padding-right: 15px;
+  /*padding-right: 15px;*/
 }
 
 a.external:hover {
