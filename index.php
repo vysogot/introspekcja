@@ -24,7 +24,7 @@
         <!-- Header -->
         <header id="header">
             <div class="inner">
-                <span class="logo"><a href="/">introspekcja.pl</a> <a href="#english" class="scroll">/en/</a></span>
+                <span class="logo"><a href="/">introspekcja.pl</a><a href="#english" class="scroll">/en/</a></span>
                 <nav id="nav">
                     <a href="#pisanie-introspektywne" class="active scroll">Pisanie introspektywne</a>
                     <a href="#książki" class="scroll">Książki</a>
