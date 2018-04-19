@@ -28,8 +28,9 @@
                 <nav id="nav">
                     <a href="#pisanie-introspektywne" class="active scroll">Pisanie introspektywne</a>
                     <a href="#książki" class="scroll">Książki</a>
+                    <a href="#eBooki" class="scroll">eBooki</a>
                     <a href="#warsztaty" class="scroll">Warsztaty</a>
-                    <a href="#english" class="scroll">Introspect in English</a>
+                    <a href="#english" class="scroll">Expand your English</a>
                     <a href="#kurs-online" class="scroll coming-soon">Kurs online!</a>
                     <a href="#kontakt" class="scroll">Kontakt</a>
                     <a href="#o-autorze" class="scroll">O autorze</a>
@@ -48,9 +49,9 @@
                 <div class="content align-center">
                     <p>Cześć, jestem <strong>Kuba</strong> i znam bardzo fajny sposób na radzenie sobie z emocjami. To, czym się tutaj dzielę, to <strong>pisanie introspektywne</strong>. Znajdziesz tutaj wszystko co potrzebne, aby zacząć z nim swoją samodzielną przygodę: kurs online, materiały teoretyczne i techniki pisania z przykładami.</p>
                     <p class="biggerMargin"><a class="button scroll" href="#kurs-online">Wskakuj na głęboką wodę...</a></p>
-                    <p style="margin-top: 50px">... albo przeczytaj <strong>rozmowę z Dorotą Lipnicką z <a target="_blank" href="http://e-inspiracja.pl/jakub-godawa-pisanie-introspektywne-przynosi-natychmiastowa-ulge-prosi-o-kontynuacje/">e-inspiracja.pl</a></strong>!</p>
+                    <p style="margin-top: 50px">... albo przeczytaj <strong>rozmowę z Dorotą Lipnicką z <a class="external" target="_blank" href="http://e-inspiracja.pl/jakub-godawa-pisanie-introspektywne-przynosi-natychmiastowa-ulge-prosi-o-kontynuacje/">e-inspiracja.pl</a></strong></p>
                     <p><a target="_blank" href="http://e-inspiracja.pl/jakub-godawa-pisanie-introspektywne-przynosi-natychmiastowa-ulge-prosi-o-kontynuacje/"><img src="./foto/einspiracja.jpg" /></a></p>
-                    <p style="margin-top: 50px">... i posłuchaj <strong>rozmowy z Piotrem Peszko z <a target="_blank" href="http://blog.2edu.pl/2017/11/podcast-2edu-15-jak-dogadac-sie-z-emocjami-rozmowa-o-pisaniu-introspektywnym-z-jakubem-godawa.html">2edu.pl</a></strong>!</p>
+                    <p style="margin-top: 50px">... i posłuchaj <strong>rozmowy z Piotrem Peszko z <a class="external" target="_blank" href="http://blog.2edu.pl/2017/11/podcast-2edu-15-jak-dogadac-sie-z-emocjami-rozmowa-o-pisaniu-introspektywnym-z-jakubem-godawa.html">2edu.pl</a></strong></p>
                     <p><a target="_blank" href="http://blog.2edu.pl/2017/11/podcast-2edu-15-jak-dogadac-sie-z-emocjami-rozmowa-o-pisaniu-introspektywnym-z-jakubem-godawa.html"><img src="./foto/2edu.png" /></a></p>
                 </div>
             </div>
@@ -68,7 +69,7 @@
                           <a target="_blank" href="http://virgobooks.pl/joga-i-ajurweda/221-hitopadesia-.html"><img src="foto/hitopadesia2.jpg" alt="Hitopadesia" /></a>
                       </div>
                       <header>
-                          <h3><a target="_blank" href="http://virgobooks.pl/joga-i-ajurweda/221-hitopadesia-.html">"Hitopadeśa"</a></h3>
+                          <h3><a class="external" target="_blank" href="http://virgobooks.pl/joga-i-ajurweda/221-hitopadesia-.html">Hitopadesia</a></h3>
                       </header>
                       <p>Co indyjska mądrość ma do powiedzenia w sprawie dobierania przyjaciół? Przeczytaj historię nauczyciela, który zostaje wezwany przez króla, aby opowiadać małym książętom o zarządzaniu królestwem...</p>
                   </article>
@@ -78,7 +79,7 @@
                             <a target="_blank" href="https://zaczytani.pl/ksiazka/pin_i_zielony,druk"><img src="foto/pin-i-zielony2.jpg" alt="Pin i zielony" /></a>
                         </div>
                         <header>
-                            <h3><a target="_blank" href="https://zaczytani.pl/ksiazka/pin_i_zielony,druk">"Pin i zielony"</a></h3>
+                            <h3><a class="external" target="_blank" href="https://zaczytani.pl/ksiazka/pin_i_zielony,druk">Pin i zielony</a></h3>
                         </header>
                         <p>Nudzi cię teoria? Chcesz zobaczyć jak ktoś rozemocjonowany wyrusza w wewnętrzną podróż? Poczytaj o bohaterze, który z programując za niezłe pieniądze otrzymał wezwanie, aby oderwać się od maszyn...</p>
                     </article>
@@ -88,7 +89,7 @@
                             <a target="_blank" href="https://nieznany.pl/pl/p/Z-Tadz-do-Wradz.-Duchowa-odyseja-kobiet/11633"><img src="foto/z-tadz-do-wradz.jpg" alt="Z Tadż do Wradż" /></a>
                         </div>
                         <header>
-                            <h3><a target="_blank" href="https://nieznany.pl/pl/p/Z-Tadz-do-Wradz.-Duchowa-odyseja-kobiet/11633">"Z Tadż do Wradż"</a></h3>
+                            <h3><a class="external" target="_blank" href="https://nieznany.pl/pl/p/Z-Tadz-do-Wradz.-Duchowa-odyseja-kobiet/11633">Z Tadż do Wradż</a></h3>
                         </header>
                         <p>Po opuszczeniu rodzinnej Belgii i latach wędrówki, przemierzywszy rowerem wiele krajów Europy, Afryki, Azji, Jaya Devi (wym. Dżaja Dewi) znalazła swój duchowy dom w Indiach...</p>
                     </article>
@@ -96,6 +97,39 @@
                 </div>
 
                 <p class="align-center biggerMargin"><a class="button scroll" href="/case-moniki-i-tomka.html">Brak czasu na książki? Przeczytaj Monice i Tomku!</a></p>
+
+            </div>
+        </section>
+
+        <section id="eBooki" class="wrapper noPadding">
+            <div class="inner align-center">
+                <header>
+                    <h2>eBooki</h2>
+                    <p>Klikasz i pobierasz w dogodnym dla Ciebie formacie</p>
+                </header>
+                <div class="flex flex-3">
+                  <article>
+                      <header>
+                          <h3><a class="external" target="_blank" href="https://docs.google.com/document/d/1NnuBp1zDv8HDOLSmAElEIukenBQ5ZHG4b4ljO4720Ao/edit?usp=sharing">Podręcznik introspekcji</a></h3>
+                      </header>
+                      <p>Wypunktowana teoria na temat introspekcji. Podręcznik do kursu "Dogadaj się z emocjami", który możesz znaleźć klikając tutaj: <a href="#kurs-online">kurs online</a>. Zawiera techniki i przykłady pisania introspektywnego.</p>
+                  </article>
+
+                    <article>
+                        <header>
+                            <h3><a class="external" target="_blank" href="https://docs.google.com/document/d/1H-8Px_l_blx4lS45fXE3tYjmD9GorWj7iTG3MdKcAKk/edit?usp=sharing">Introspective Playbook</a></h3>
+                        </header>
+                        <p>Świetny sposób naukę angielskiego. Niesamowita podróż z bohaterem, który prowadzi Cię pytaniami wgłąb Ciebie aby pokazać Ci, że bohaterem... jesteś Ty! Duża dawka inspiracji!</p>
+                    </article>
+
+                    <article>
+                        <header>
+                            <h3><a class="external" target="_blank" href="https://docs.google.com/document/d/1GobP9kkcqkClEF7U32yZP12008eyCTH3evawIamd47k/edit?usp=sharing">W poszukiwaniu spójności</a></h3>
+                        </header>
+                        <p>Introspekcje dotyczące podjadania, stresu, uczucia wykluczenia i ambiwalencji. Wiele codziennych przygód opisywanych z pieczołowitą dokładnością w poszukiwaniu spójności. Dobry kawałek introspekcji.</p>
+                    </article>
+
+                </div>
 
             </div>
         </section>
@@ -150,7 +184,7 @@
         <section id="english" class="wrapper noPadding">
             <div class="inner">
               <header class="align-center">
-                  <h2>Introspect in English</h2>
+                  <h2>Expand your English</h2>
                   <p>Online Course and Playbook for you!</p>
               </header>
               <div class="content">
@@ -377,7 +411,7 @@
                       <p><strong>Jakub Godawa</strong> organizuje i prowadzi warsztaty wyjazdowe, sesje indywidualne i grupowe</strong>. Tłumaczy książki i zajęcia
                       z zakresu psychologii i kultury wedyjskiej. Rozwija i promuje opracowaną przez siebie metodę <strong>pisania introspektywnego</strong>. Pochodzi z Poznania, półtora roku mieszkał w Indiach, trzy lata w Hiszpani a rok w Berlinie. Obecnie mieszka razem z narzeczoną w Otwocku i bardzo mu się tam podoba.</p>
                       <p>Z zawodu jest programistą i odżywia się roślinami – chyba że jest na wsi, gdzie krowy pasą się do końca życia i nikt nie zabiera im cielaków. Od takich krów uwielbia pić mleko. Na jego <a class="external" target="_blank" href="https://www.instagram.com/jakubgodawa/">Instagramie</a> znajdziecie to, co zwykle ląduje na jego talerzu, a na kanale <a class="external" target="_blank" href="https://www.youtube.com/c/jakub_godawa">YouTube</a> obejrzycie ciekawe wywiady, które przeprowadził.</p>
-                      <p>Kuba lubi dzielić się introspekcją i zachęcać innych do samopoznania. <strong>Chcesz poczytać jego teksty?</strong> Zajrzyj na <a target="_blank" href="https://docs.google.com/document/d/1GobP9kkcqkClEF7U32yZP12008eyCTH3evawIamd47k/edit?usp=sharing">Google Docs i czytaj</a> w dogodnym dla Ciebie formacie (PDF, ePub, docx i inne).
+                      <p>Kuba lubi dzielić się introspekcją i zachęcać innych do samopoznania. <strong>Chcesz poczytać jego teksty?</strong> Zajrzyj na <a class="external" target="_blank" href="https://docs.google.com/document/d/1GobP9kkcqkClEF7U32yZP12008eyCTH3evawIamd47k/edit?usp=sharing">Google Docs i czytaj</a> w dogodnym dla Ciebie formacie (PDF, ePub, docx i inne).
                         Chcesz dostawać powiadomienie gdy pojawią się nowe? Dołącz do grupy "Dogadaj się z emocjami" na <a class="external" target="_blank" href="https://www.facebook.com/groups/introspekcja">Facebooku</a> lub po prostu <a href="#kontakt" class="scroll">daj znać</a>.</p>
                   </div>
                 </div>
