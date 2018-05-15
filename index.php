@@ -26,20 +26,19 @@
             <div class="inner">
                 <span class="logo"><a href="/">introspekcja.pl</a><a href="#english" class="scroll">/en/</a></span>
                 <nav id="nav">
-                    <a href="#pisanie-introspektywne" class="active scroll">Pisanie introspektywne</a>
+                    <a href="#home" class="active scroll">Home</a>
                     <a href="#książki" class="scroll">Książki</a>
                     <a href="#eBooki" class="scroll">eBooki</a>
-                    <a href="#warsztaty" class="scroll">Warsztaty</a>
-                    <a href="#english" class="scroll">Expand your English</a>
+                    <a href="#english" class="scroll">English</a>
                     <a href="#kurs-online" class="scroll coming-soon">Kurs online!</a>
+                    <a href="#o-mnie" class="scroll">O mnie</a>
                     <a href="#kontakt" class="scroll">Kontakt</a>
-                    <a href="#o-autorze" class="scroll">O autorze</a>
                 </nav>
                 <a href="#navPanel" class="navPanelToggle"><span class="fa fa-bars"></span></a>
             </div>
         </header>
 
-        <section id="pisanie-introspektywne" class="wrapper noPadding">
+        <section id="home" class="wrapper noPadding">
 
             <header class="align-center">
                 <h2>Pisanie introspektywne</h2>
@@ -48,20 +47,16 @@
             <div class="inner">
                 <div class="content align-center">
                     <p>Cześć, jestem <strong>Kuba</strong> i znam bardzo fajny sposób na radzenie sobie z emocjami. To, czym się tutaj dzielę, to <strong>pisanie introspektywne</strong>. Znajdziesz tutaj wszystko co potrzebne, aby zacząć z nim swoją samodzielną przygodę: kurs online, materiały teoretyczne i techniki pisania z przykładami.</p>
-                    <p class="biggerMargin"><a class="button scroll" href="#kurs-online">Wskakuj na głęboką wodę...</a></p>
-                    <p style="margin-top: 50px">... albo przeczytaj <strong>rozmowę z Dorotą Lipnicką z <a class="external" target="_blank" href="http://e-inspiracja.pl/jakub-godawa-pisanie-introspektywne-przynosi-natychmiastowa-ulge-prosi-o-kontynuacje/">e-inspiracja.pl</a></strong></p>
-                    <p><a target="_blank" href="http://e-inspiracja.pl/jakub-godawa-pisanie-introspektywne-przynosi-natychmiastowa-ulge-prosi-o-kontynuacje/"><img src="./foto/einspiracja.jpg" /></a></p>
-                    <p style="margin-top: 50px">... i posłuchaj <strong>rozmowy z Piotrem Peszko z <a class="external" target="_blank" href="http://blog.2edu.pl/2017/11/podcast-2edu-15-jak-dogadac-sie-z-emocjami-rozmowa-o-pisaniu-introspektywnym-z-jakubem-godawa.html">2edu.pl</a></strong></p>
-                    <p><a target="_blank" href="http://blog.2edu.pl/2017/11/podcast-2edu-15-jak-dogadac-sie-z-emocjami-rozmowa-o-pisaniu-introspektywnym-z-jakubem-godawa.html"><img src="./foto/2edu.png" /></a></p>
-                </div>
+                    <p class="biggerMargin"><a class="button scroll" href="#kurs-online">Wskakuj na głęboką wodę!</a></p>
+                                    </div>
             </div>
         </section>
 
         <section id="książki" class="wrapper noPadding">
             <div class="inner align-center">
                 <header>
-                    <h2>Polecane książki</h2>
-                    <p>Szukasz inspiracji? W podróży pisania introspektywnego warto czytać introspekcjonistów...</p>
+                    <h2>Fajne książki</h2>
+                    <p>Szukasz inspiracji? Czytaj introspekcjonistów!</p>
                 </header>
                 <div class="flex flex-3">
                   <article>
@@ -81,7 +76,7 @@
                         <header>
                             <h3><a class="external" target="_blank" href="https://zaczytani.pl/ksiazka/pin_i_zielony,druk">Pin i zielony</a></h3>
                         </header>
-                        <p>Nudzi cię teoria? Chcesz zobaczyć jak ktoś rozemocjonowany wyrusza w wewnętrzną podróż? Poczytaj o bohaterze, który z programując za niezłe pieniądze otrzymał wezwanie, aby oderwać się od maszyn...</p>
+                        <p>Nudzi cię teoria? Chcesz zobaczyć jak ktoś rozemocjonowany wyrusza w wewnętrzną podróż? Poczytaj o bohaterze, który programując za niemałe pieniądze otrzymał wezwanie, aby oderwać się od maszyn...</p>
                     </article>
 
                     <article>
@@ -91,12 +86,12 @@
                         <header>
                             <h3><a class="external" target="_blank" href="https://nieznany.pl/pl/p/Z-Tadz-do-Wradz.-Duchowa-odyseja-kobiet/11633">Z Tadż do Wradż</a></h3>
                         </header>
-                        <p>Po opuszczeniu rodzinnej Belgii i latach wędrówki, przemierzywszy rowerem wiele krajów Europy, Afryki, Azji, Jaya Devi (wym. Dżaja Dewi) znalazła swój duchowy dom w Indiach...</p>
+                        <p>Po opuszczeniu rodzinnej Belgii i latach wędrówki, przemierzywszy rowerem wiele krajów Europy, Afryki, Azji, Jaya Devi (wym. Dżaja Dewi) odnalazła swój duchowy dom w Indiach...</p>
                     </article>
 
                 </div>
 
-                <p class="align-center biggerMargin"><a class="button scroll" href="/case-moniki-i-tomka.html">Brak czasu na książki? Przeczytaj Monice i Tomku!</a></p>
+                <p class="align-center biggerMargin"><a class="button scroll" href="/case-moniki-i-tomka.html">Coś krótszego? Przeczytaj o Tomku i Monice!</a></p>
 
             </div>
         </section>
@@ -105,26 +100,26 @@
             <div class="inner align-center">
                 <header>
                     <h2>eBooki</h2>
-                    <p>Klikasz i pobierasz w dogodnym dla Ciebie formacie</p>
+                    <p>Pobierz w dogodnym dla Ciebie formacie!</p>
                 </header>
                 <div class="flex flex-3">
                   <article>
                       <header>
-                          <h3><a class="external" target="_blank" href="https://docs.google.com/document/d/1NnuBp1zDv8HDOLSmAElEIukenBQ5ZHG4b4ljO4720Ao/edit?usp=sharing">Podręcznik introspekcji</a></h3>
+                          <h3><a class="external" target="_blank" href="https://docs.google.com/document/d/1NnuBp1zDv8HDOLSmAElEIukenBQ5ZHG4b4ljO4720Ao/edit?usp=sharing">Wstępniak</a></h3>
                       </header>
                       <p>Wypunktowana teoria na temat introspekcji. Podręcznik do kursu "Dogadaj się z emocjami", który możesz znaleźć klikając tutaj: <a href="#kurs-online">kurs online</a>. Zawiera techniki i przykłady pisania introspektywnego.</p>
                   </article>
 
                     <article>
                         <header>
-                            <h3><a class="external" target="_blank" href="https://docs.google.com/document/d/1H-8Px_l_blx4lS45fXE3tYjmD9GorWj7iTG3MdKcAKk/edit?usp=sharing">Introspective Playbook</a></h3>
+                            <h3><a class="external" target="_blank" href="https://docs.google.com/document/d/1H-8Px_l_blx4lS45fXE3tYjmD9GorWj7iTG3MdKcAKk/edit?usp=sharing">English Playbook</a></h3>
                         </header>
                         <p>Świetny sposób naukę angielskiego. Niesamowita podróż z bohaterem, który prowadzi Cię pytaniami wgłąb Ciebie aby pokazać Ci, że bohaterem... jesteś Ty! Duża dawka inspiracji!</p>
                     </article>
 
                     <article>
                         <header>
-                            <h3><a class="external" target="_blank" href="https://docs.google.com/document/d/1GobP9kkcqkClEF7U32yZP12008eyCTH3evawIamd47k/edit?usp=sharing">W poszukiwaniu spójności</a></h3>
+                            <h3><a class="external" target="_blank" href="https://docs.google.com/document/d/1GobP9kkcqkClEF7U32yZP12008eyCTH3evawIamd47k/edit?usp=sharing">Podjadacz</a></h3>
                         </header>
                         <p>Introspekcje dotyczące podjadania, stresu, uczucia wykluczenia i ambiwalencji. Wiele codziennych przygód opisywanych z pieczołowitą dokładnością w poszukiwaniu spójności. Dobry kawałek introspekcji.</p>
                     </article>
@@ -145,7 +140,7 @@
 
                         <div class="12u 12u$(small)">
                             <span class="image fit"><img src="foto/asp.jpg" alt="Warsztaty na Akademii Sztuk Pięknych w Warszawie" /></span>
-                            <p>Warsztaty na Akademii Sztuk Pięknych w Warszawie</p>
+                            <p>Warsztaty na ASP w Warszawie</p>
                             <br />
                         </div>
                     </div>
@@ -153,7 +148,7 @@
                         <div class="6u 12u$(small)">
 
                             <span class="image fit"><img src="foto/pisanie-introspektywne-nad-jeziorem.jpg" alt="Warsztaty w lesie" /></span>
-                            <p>Grupa nad jeziorem, introspekcja przed pływaniem</p>
+                            <p>Nad jeziorem, introspekcja przed pływaniem</p>
                             <span class="image fit"><img src="foto/pisanie-introspektywne-kredki.jpg" alt="Warsztaty w lesie" /></span>
                             <p>Rysowanie przed pisaniem</p>
                         </div>
@@ -165,7 +160,6 @@
                         </div>
 
                     </div>
-                    <p class="align-center biggerMargin"><a class="button scroll" href="https://www.facebook.com/groups/introspekcja">Dołącz do grupy na fejsie!</a></p>
         </section>
 
         <section class="banner midBanner">
@@ -356,6 +350,58 @@
             </div>
         </section>
 
+        <section id="o-mnie" class="wrapper noPadding">
+          <header class="align-center">
+              <h2>O mnie</h2>
+          </header>
+          <div class="inner">
+            <div class="content">
+                <div class="row">
+                  <div class="3u 12u(small)">
+                    <div class="image fit align-center">
+                        <img src="/foto/kuba-small.jpg" alt="Jakub Godawa" class="border" />
+                    </div>
+                  </div>
+                  <div class="9u 12u$(small)">
+                      <p>Cześć, nazywam się <strong>Jakub Godawa</strong> i uwielbiam pisać. Mój debiut to <strong>"Pin i zielony"</strong>, a do tego przetłumaczyłem trzy książki: "Hitopadesia", "Z Tadż do Wradż" i "Joga Przygnębienia". Rozwijam i promuję opracowaną przez siebie metodę <strong>pisania introspektywnego</strong>.</p>
+<p>Pochodzę z Poznania, półtora roku mieszkałem w Indiach, trzy lata w Hiszpani i rok w Berlinie. Obecnie mieszkam z narzeczoną w Otwocku i bardzo mi się tu podoba.</p>
+                      <p>Z zawodu jestem programistą. Na moim <a class="external" target="_blank" href="https://www.instagram.com/jakubgodawa/">Instagramie</a> znajdziecie to, co zwykle ląduje na moim wegańskim talerzu, a na kanale <a class="external" target="_blank" href="https://www.youtube.com/c/jakub_godawa">YouTube</a> obejrzycie ciekawe wywiady, które miałem przyjemność przeprowadzić. Lubię dzielić się introspekcją i zachęcać innych do samopoznania. <strong>Mój ostatni tekst znajdziesz <a class="external" target="_blank" href="https://docs.google.com/document/d/1GobP9kkcqkClEF7U32yZP12008eyCTH3evawIamd47k/edit?usp=sharing">tutaj</a></strong>.
+                  </div>
+                </div>
+                <header class="align-center">
+                        <h2>Rozmowy</h2>
+                    </header>
+                <div class="row center">
+                    
+                    <div class="6u 12u(small)">
+                        <p><em>Pisanie introspektywne przynosi natychmiastową ulgę<br/>i prosi o kontynuację</em></p>
+                        <p style="margin-top: 50px"><strong>Dorota Lipnicka z <a class="external" target="_blank" href="http://e-inspiracja.pl/jakub-godawa-pisanie-introspektywne-przynosi-natychmiastowa-ulge-prosi-o-kontynuacje/">e-inspiracja.pl</a></strong></p>
+                        <p><a target="_blank" href="http://e-inspiracja.pl/jakub-godawa-pisanie-introspektywne-przynosi-natychmiastowa-ulge-prosi-o-kontynuacje/"><img src="./foto/einspiracja.jpg" /></a></p>
+                    </div>
+                    <div class="6u 12u$(small)">
+                        <p><em>Jak dogadać się z emocjami?<br/>Rozmowa o pisaniu introspektywnym</em></p>
+                        <p style="margin-top: 50px"><strong>Piotr Peszko z <a class="external" target="_blank" href="http://blog.2edu.pl/2017/11/podcast-2edu-15-jak-dogadac-sie-z-emocjami-rozmowa-o-pisaniu-introspektywnym-z-jakubem-godawa.html">2edu.pl</a></strong></p>
+                        <p><a target="_blank" href="http://blog.2edu.pl/2017/11/podcast-2edu-15-jak-dogadac-sie-z-emocjami-rozmowa-o-pisaniu-introspektywnym-z-jakubem-godawa.html"><img src="./foto/2edu.png" /></a></p>
+                    </div>
+                </div>
+              </div>
+            </div>
+        </section>
+
+        <section id="instagram" class="wrapper noPadding biggerMargin">
+          <header class="align-center">
+              <h2>Foteczki</h2>
+          </header>
+          <div class="inner">
+            <div class="content">
+                <div class="row">
+                  <!-- LightWidget WIDGET --><script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/0bda0988a1d75d2699575a568f9a05e3.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
+              </div>
+            </div>
+          </div>
+      </section>
+
+
         <section id="kontakt" class="wrapper noPadding">
             <div class="inner">
                 <header class="align-center">
@@ -395,29 +441,8 @@
             </div>
         </section>
 
-        <section id="o-autorze" class="wrapper noPadding">
-          <header class="align-center">
-              <h2>O autorze</h2>
-          </header>
-          <div class="inner">
-            <div class="content">
-                <div class="row">
-                  <div class="3u 12u(small)">
-                    <div class="image fit align-center">
-                        <img src="/foto/kuba-small.jpg" alt="Jakub Godawa" class="border" />
-                    </div>
-                  </div>
-                  <div class="9u 12u$(small)">
-                      <p><strong>Jakub Godawa</strong> organizuje i prowadzi warsztaty wyjazdowe, sesje indywidualne i grupowe</strong>. Tłumaczy książki i zajęcia
-                      z zakresu psychologii i kultury wedyjskiej. Rozwija i promuje opracowaną przez siebie metodę <strong>pisania introspektywnego</strong>. Pochodzi z Poznania, półtora roku mieszkał w Indiach, trzy lata w Hiszpani a rok w Berlinie. Obecnie mieszka razem z narzeczoną w Otwocku i bardzo mu się tam podoba.</p>
-                      <p>Z zawodu jest programistą i odżywia się roślinami – chyba że jest na wsi, gdzie krowy pasą się do końca życia i nikt nie zabiera im cielaków. Od takich krów uwielbia pić mleko. Na jego <a class="external" target="_blank" href="https://www.instagram.com/jakubgodawa/">Instagramie</a> znajdziecie to, co zwykle ląduje na jego talerzu, a na kanale <a class="external" target="_blank" href="https://www.youtube.com/c/jakub_godawa">YouTube</a> obejrzycie ciekawe wywiady, które przeprowadził.</p>
-                      <p>Kuba lubi dzielić się introspekcją i zachęcać innych do samopoznania. <strong>Chcesz poczytać jego teksty?</strong> Zajrzyj na <a class="external" target="_blank" href="https://docs.google.com/document/d/1GobP9kkcqkClEF7U32yZP12008eyCTH3evawIamd47k/edit?usp=sharing">Google Docs i czytaj</a> w dogodnym dla Ciebie formacie (PDF, ePub, docx i inne).
-                        Chcesz dostawać powiadomienie gdy pojawią się nowe? Dołącz do grupy "Dogadaj się z emocjami" na <a class="external" target="_blank" href="https://www.facebook.com/groups/introspekcja">Facebooku</a> lub po prostu <a href="#kontakt" class="scroll">daj znać</a>.</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-        </section>
+
+
 
         <!-- Footer -->
         <footer id="footer">
@@ -427,11 +452,11 @@
                         <a target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pl">Creative Commons BY-NC-SA 4.0</a> &copy; Jakub Godawa
                     </div>
                     <ul class="icons">
-                        <li><a target="_blank" href="https://www.facebook.com/groups/introspekcja" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+                        <li><a target="_blank" href="https://www.medium.com/@vysogot" class="icon fa-medium"><span class="label">Medium</span></a></li>
+                        <li><a target="_blank" href="https://www.linkedin.com/in/jakubgodawa" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
                         <li><a target="_blank" href="https://www.instagram.com/jakubgodawa/" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
                         <li><a target="_blank" href="https://www.github.com/vysogot/" class="icon fa-github"><span class="label">GitHub</span></a></li>
                         <li><a target="_blank" href="https://www.youtube.com/c/jakub_godawa" class="icon fa-youtube"><span class="label">YouTube</span></a></li>
-                        <li><a target="_blank" href="https://www.linkedin.com/in/jakubgodawa" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
                     </ul>
                 </div>
             </div>
