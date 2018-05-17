@@ -365,7 +365,7 @@
                   <div class="9u 12u$(small)">
                       <p>Cześć, nazywam się <strong>Jakub Godawa</strong> i uwielbiam pisać. Mój debiut to <strong>"Pin i zielony"</strong>, a do tego przetłumaczyłem trzy książki: "Hitopadesia", "Z Tadż do Wradż" i "Joga Przygnębienia". Rozwijam i promuję opracowaną przez siebie metodę <strong>pisania introspektywnego</strong>.</p>
 <p>Pochodzę z Poznania, półtora roku mieszkałem w Indiach, trzy lata w Hiszpani i rok w Berlinie. Obecnie mieszkam z narzeczoną w Otwocku i bardzo mi się tu podoba.</p>
-                      <p>Z zawodu jestem programistą. Na moim <a class="external" target="_blank" href="https://www.instagram.com/jakubgodawa/">Instagramie</a> znajdziecie to, co zwykle ląduje na moim wegańskim talerzu, a na kanale <a class="external" target="_blank" href="https://www.youtube.com/c/jakub_godawa">YouTube</a> obejrzycie ciekawe wywiady, które miałem przyjemność przeprowadzić. Lubię dzielić się introspekcją i zachęcać innych do samopoznania. <strong>Mój ostatni tekst znajdziesz <a class="external" target="_blank" href="https://docs.google.com/document/d/1GobP9kkcqkClEF7U32yZP12008eyCTH3evawIamd47k/edit?usp=sharing">tutaj</a></strong>.
+                      <p>Czasami lubię programować. Na kanale <a class="external" target="_blank" href="https://www.youtube.com/c/jakub_godawa">YouTube</a> obejrzycie ciekawe wywiady, które miałem przyjemność przeprowadzić. Lubię dzielić się introspekcją i zachęcać innych do samopoznania. <strong>Mój ostatni tekst znajdziesz <a class="external" target="_blank" href="https://docs.google.com/document/d/1GobP9kkcqkClEF7U32yZP12008eyCTH3evawIamd47k/edit?usp=sharing">tutaj</a></strong>.
                   </div>
                 </div>
                 <header class="align-center">
@@ -387,20 +387,6 @@
               </div>
             </div>
         </section>
-
-        <section id="instagram" class="wrapper noPadding biggerMargin">
-          <header class="align-center">
-              <h2>Foteczki</h2>
-          </header>
-          <div class="inner">
-            <div class="content">
-                <div class="row">
-                  <!-- LightWidget WIDGET --><script src="https://cdn.lightwidget.com/widgets/lightwidget.js"></script><iframe src="//lightwidget.com/widgets/0bda0988a1d75d2699575a568f9a05e3.html" scrolling="no" allowtransparency="true" class="lightwidget-widget" style="width:100%;border:0;overflow:hidden;"></iframe>
-              </div>
-            </div>
-          </div>
-      </section>
-
 
         <section id="kontakt" class="wrapper noPadding">
             <div class="inner">
@@ -454,7 +440,6 @@
                     <ul class="icons">
                         <li><a target="_blank" href="https://www.medium.com/@vysogot" class="icon fa-medium"><span class="label">Medium</span></a></li>
                         <li><a target="_blank" href="https://www.linkedin.com/in/jakubgodawa" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
-                        <li><a target="_blank" href="https://www.instagram.com/jakubgodawa/" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
                         <li><a target="_blank" href="https://www.github.com/vysogot/" class="icon fa-github"><span class="label">GitHub</span></a></li>
                         <li><a target="_blank" href="https://www.youtube.com/c/jakub_godawa" class="icon fa-youtube"><span class="label">YouTube</span></a></li>
                     </ul>
