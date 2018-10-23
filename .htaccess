@@ -6,4 +6,5 @@ RewriteRule ^case-moniki-i-tomka$ ./case-moniki-i-tomka.html
 RewriteRule ^webinar$ https://piotrpeszko2edu.clickmeeting.com/introspekcja
 RewriteRule ^game$ https://aqueous-brook-44812.herokuapp.com/
 RewriteRule ^dziekuje$ ./dziekuje.html
-RewriteRule ^blog$ https://medium.com/@vysogot 
+RewriteRule ^wyjazd-do-lasu$ ./wyjazd-do-lasu.html
+RewriteRule ^blog$ https://medium.com/@vysogot

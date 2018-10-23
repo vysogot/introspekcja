@@ -46,8 +46,8 @@
             </header>
             <div class="inner">
                 <div class="content align-center">
-                    <p>Cześć, jestem <strong>Kuba</strong> i znam bardzo fajny sposób na radzenie sobie z emocjami. To, czym się tutaj dzielę, to <strong>pisanie introspektywne</strong>. Znajdziesz tutaj wszystko co potrzebne, aby zacząć z nim swoją samodzielną przygodę: kurs online, materiały teoretyczne i techniki pisania z przykładami.</p>
-                    <p class="biggerMargin"><a class="button scroll" href="#kurs-online">Wskakuj na głęboką wodę!</a></p>
+                    <p>Cześć, jestem <strong>Kuba</strong> i znam fajny sposób na radzenie sobie z emocjami. To, czym się dzielę, to <strong>pisanie introspektywne</strong>. Znajdziesz tutaj  wszystko co potrzebne, aby rozpocząć z nim swoją samodzielną przygodę: kurs online, materiały teoretyczne i techniki pisania z przykładami.</p>
+                    <p class="biggerMargin"><a class="button scroll" href="#kurs-online">Zaczynamy!</a></p>
                                     </div>
             </div>
         </section>
@@ -248,18 +248,18 @@
                 <div class="content">
                     <div class="row">
                         <div class="12u 12u$(small)">
-                            <p>Kurs online <strong>"Dogadaj się z emocjami"</strong> zabierze Cię w podróż z <strong>pisaniem introspektywnym</strong>. Pomoże Ci uzyskać solidny wgląd w to, jak samodzielnie i w sposób usystematyzowany poukładać sobie relacje z własnymi emocjami. Jeśli w trakcie jego oglądania pojawią się pytania, <a href="#kontakt">pisz śmiało</a> i pamiętaj – introspekcja to niespieszny proces. Nagrania są w podobnym, spokojnym tonie.</p>
+                            <p>Kurs online <strong>"Dogadaj się z emocjami"</strong> zabierze Cię w podróż z <strong>pisaniem introspektywnym</strong> i pomoże Ci uzyskać solidny wgląd w to, jak samodzielnie i w sposób usystematyzowany poukładać sobie relacje z własnymi emocjami. Jeśli w trakcie jego oglądania pojawią się pytania to <a href="#kontakt">pisz śmiało</a> i pamiętaj, że introspekcja to niespieszny proces i dlatego nagrania są w podobnym, niespiesznym tonie.</p>
                         </div>
                     </div>
                     <div class="row">
                         <div class="6u 12u$(small)">
                             <h3>Co może dać Ci ten kurs?</h3>
                             <ul class="checklist">
-                                <li>dowiesz się jak umiejętnie rozpoznawać i nazywać emocje</li>
-                                <li>zobaczysz różnicę pomiędzy zaangażowaniem a oddaniem</li>
-                                <li>pokażę Ci jak oddychać i dbać o siebie podczas introspekcji</li>
-                                <li>poznasz 9 technik pisania introspektywnego wraz z przykładami</li>
-                                <li>zobaczysz czym różni się pisanie introspektywne od pisania pamiętnika</li>
+                                <li>dowiesz się jak umiejętnie rozpoznawać i nazywać emocje,</li>
+                                <li>zobaczysz różnicę pomiędzy zaangażowaniem a oddaniem,</li>
+                                <li>dowiesz się jak oddychać i dbać o siebie podczas introspekcji,</li>
+                                <li>poznasz 9 technik pisania introspektywnego wraz z przykładami,</li>
+                                <li>zobaczysz czym różni się pisanie introspektywne od pisania pamiętnika.</li>
                             </ul>
                         </div>
                         <div class="6u 12u$(small)">
@@ -268,8 +268,8 @@
                                 <li>pisanie lub myślenie sprawia Ci przyjemność,</li>
                                 <li>zależy Ci na podtrzymaniu witalności twórczej,</li>
                                 <li>wyrażanie myśli i emocji zaczyna być dla Ciebie kłopotliwe,</li>
-                                <li>brakuje Ci pewności w realizowaniu własnych planów</li>
-                                <li>orientujesz się, że zasypujesz innych swoimi problemami,</li>
+                                <li>brakuje Ci pewności w realizowaniu własnych planów,</li>
+                                <li>orientujesz się, że zasypujesz innych swoimi problemami.</li>
                             </ul>
                         </div>
                     </div>
@@ -283,7 +283,7 @@
                                     <tbody>
                                       <tr>
                                           <td colspan="2"><a target="_blank" href="https://docs.google.com/document/d/1NnuBp1zDv8HDOLSmAElEIukenBQ5ZHG4b4ljO4720Ao/edit?usp=sharing">
-                                            <strong>Materiały tekstowe</strong> – pobierz teorię, techniki i przykłady (Google Docs)</a></td>
+                                            <strong>Materiały tekstowe</strong> – teoria, techniki i przykłady (Google Docs)</a></td>
                                       </tr>
 
                                         <tr>
